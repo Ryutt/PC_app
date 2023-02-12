@@ -1,4 +1,4 @@
-package com.yout.cal.caculator;
+package com.yout.cal.calculator;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
